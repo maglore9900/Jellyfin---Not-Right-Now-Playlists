@@ -81,20 +81,30 @@ Restart your Jellyfin server to load both plugins.
 
 1. **Admin Setup**: Go to Dashboard → My Plugins → [Plugin Name] to create smart lists
 2. **User Access**: Users can access their personalized settings through the user configuration pages
-![](images/config.png)
-3. **Creating a playlist**: Build filter rules based on genre, play status, ratings, dates, and many other criteria
-**Step 1**: Create a new playlist or clone an existing one and turn it into a smartlist
-![](images/create_playlist1.png)
-**Step 2**: Select media types
-![](images/create_playlist2.png)
-**Step 3**: Use rules, browse your library, or search to add media to the playlist. You can use a any combination. Rules allow for regex as well.
-![](images/create_playlist3.png)
-**Step 4**: Review and confirm the playlist. This will create a smart playlist object that you can manage in the main config screen as well as a playlist object for jellyfin. 
-![](images/create_playlist4.png)
 
+![](images/config.png)
+
+3. **Creating a playlist**: Build filter rules based on genre, play status, ratings, dates, and many other criteria
+
+**Step 1**: Create a new playlist or clone an existing one and turn it into a smartlist
+
+![](images/create_playlist1.png)
+
+**Step 2**: Select media types
+
+![](images/create_playlist2.png)
+
+**Step 3**: Use rules, browse your library, or search to add media to the playlist. You can use a any combination. Rules allow for regex as well.
+
+![](images/create_playlist3.png)
+
+**Step 4**: Review and confirm the playlist. This will create a smart playlist object that you can manage in the main config screen as well as a playlist object for jellyfin. 
+
+![](images/create_playlist4.png)
 
 4. **Snooze/Ignore Tracks**: Users can snooze or ignore tracks
 Now, injected into the context menu, you can snooze or ignore tracks. The length of time is based on the default, which you can change in the settings.
+
 ![](images/snooze.png)
 
 ## Acknowledgments
