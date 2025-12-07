@@ -1,4 +1,4 @@
-# Not right Now (NrN) playlists
+# Not right Now (NrN) Playlists
 
 A Jellyfin plugin for creating smart, rule-based playlists and collections with advanced multi-user support.
 
